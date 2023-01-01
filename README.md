@@ -3,8 +3,8 @@
 # Overview
 In this article, we will be analyzing the flight fare prediction using Machine Learning dataset using essential exploratory data analysis techniques then will draw some predictions about the price of the flight based on some features such as what type of airline it is, what is the arrival time, what is the departure time, what is the duration of the flight, source, destination and more.
 
-# Takeaways from the blog
-In this article, we do prediction using machine learning which leads to below takeaways:
+# Takeaways from the Project.
+In this project, we do prediction using machine learning which leads to below takeaways:
 
 1.EDA: Learn the complete process of EDA
 2.Data analysis: Learn to withdraw some insights from the dataset both mathematically and visualize it.
